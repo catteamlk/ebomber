@@ -18,18 +18,7 @@ python3 EBomber.py
 ******************dosont working that*********************
 
 ************FOR TURMUX*****************
-
-apt get update && apt get upgrade
-
-git clone https://github.com/catteamlk/ebomber.git
-
-cd ebomber
-
-pip install -r reqnew.txt
-
-pip install ascii_magic
-
-python3 EBomber.py
+not working coming soon..........
 
 
 
