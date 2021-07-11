@@ -33,9 +33,10 @@ while True:
     
     choice = input(colored("Enter your choice(enter number): ", "yellow"))
     if choice == "1":
-            url_l = "http://essentialtours.com/embomber.html"
+            url_l = "https://google.com"
             webbrowser.open(url_l)
-            print(colored("Please do attack after watch opened webpage instructions do not miss it (IMPORTENS)","red"))
+            print(colored("Please do attack after watch opened webpage instructions do not miss it (IMPORTENT)","red"))
+            print(colored("If you miss that video *THE TOOL IS NOT WORKKING ITS YOUR WRONG* (IMPORTENT)","red"))
             mail = input(colored("Enter your gmail address: " , "yellow"))
             
             pwdm = input(colored("Enter your gmail password: " , "yellow"))
