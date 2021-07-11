@@ -33,7 +33,7 @@ while True:
     
     choice = input(colored("Enter your choice(enter number): ", "yellow"))
     if choice == "1":
-            url_l = "https://google.com"
+            url_l = "https://mail.google.com/mail/u/0/?ogbl#inbox"
             webbrowser.open(url_l)
             print(colored("Please do attack after watch opened webpage instructions do not miss it (IMPORTENT)","red"))
             print(colored("If you miss that video *THE TOOL IS NOT WORKKING ITS YOUR WRONG* (IMPORTENT)","red"))
