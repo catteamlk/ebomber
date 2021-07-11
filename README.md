@@ -27,6 +27,8 @@ cd ebomber
 
 pip install -r reqnew.txt
 
+pip install ascii_magic
+
 python3 EBomber.py
 
 
