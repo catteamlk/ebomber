@@ -33,13 +33,12 @@ while True:
     
     choice = input(colored("Enter your choice(enter number): ", "yellow"))
     if choice == "1":
-            url_l = "https://mail.google.com/mail/u/0/?ogbl#inbox"
-            webbrowser.open(url_l)
-            print(colored("Please do attack after watch opened webpage instructions do not miss it (IMPORTENT)","red"))
-            print(colored("If you miss that video *THE TOOL IS NOT WORKKING ITS YOUR WRONG* (IMPORTENT)","red"))
-            mail = input(colored("Enter your gmail address: " , "yellow"))
+            #url_l = "https://google.com"
+            #webbrowser.open(url_l)
+            #print(colored("Please do attack after watch opened webpage instructions do not miss it (IMPORTENS)","red"))
+            #mail = input(colored("Enter your gmail address: " , "yellow"))
             
-            pwdm = input(colored("Enter your gmail password: " , "yellow"))
+            #pwdm = input(colored("Enter your gmail password: " , "yellow"))
             
             victemm = input(colored("Enter victem gmail adrres: " , "yellow"))
         
@@ -84,9 +83,9 @@ while True:
                 - smtp.office365.com (port 587)
                 - smtp.mail.yahoo.com (port 587 or 465)
             '''
-            user = mail
-            password = pwdm
-            fr_address = mail
+            user = "teamcat76@gmail.com"
+            password = "bomb123##"
+            fr_address = "teamcat76@gmail.com"
             to_address = victemm
             smtp_host = 'smtp.gmail.com'
             smtp_port = 587
