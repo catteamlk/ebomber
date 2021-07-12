@@ -21,7 +21,3 @@ python3 EBomber.py
 not working coming soon..........
 
 
-
-*********************PLEACE WATCH HOW TO USE THIS*********************
-
-**link** = http://essentialtours.com/embomber.html
