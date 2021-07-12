@@ -18,6 +18,12 @@ python3 EBomber.py
 ******************dosont working that*********************
 
 ************FOR TURMUX*****************
-not working coming soon..........
+git clone https://github.com/catteamlk/ebomber-tur.git
+
+cd ebomber-tur
+
+pip install -r reqnew.txt
+
+python3 EBomber.py
 
 
